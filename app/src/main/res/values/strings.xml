@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Brain Trainer</string>
+    <string name="G0">G0!</string>
+    <string name="tempo">30s</string>
+    <string name="points">0/0</string>
+</resources>
