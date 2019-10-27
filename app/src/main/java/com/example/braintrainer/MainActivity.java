@@ -14,6 +14,9 @@ public class MainActivity extends AppCompatActivity {
             startButton.setVisibility(View.INVISIBLE);
     }
 
+    public void chooseAnswer(){
+
+    }
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

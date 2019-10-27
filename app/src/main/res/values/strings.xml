@@ -3,4 +3,10 @@
     <string name="G0">G0!</string>
     <string name="tempo">30s</string>
     <string name="points">0/0</string>
+    <string name="buttonOne">3</string>
+    <string name="buttonFour">4</string>
+    <string name="buttonOTwo">2</string>
+    <string name="buttonThree">3</string>
+    <string name="sumText" translatable="false">5 x 5</string>
+    <string name="correct">Correct</string>
 </resources>
